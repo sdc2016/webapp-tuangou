@@ -10,9 +10,9 @@ reactjs Restructure group Web site
 5. goods can buy and comment
 6. personaly page
 # how to use
-firstly, use 'npm i' install some package dependy project
-secondly, use a command 'npm run mock' start server
-thirdly, use a command 'npm start' start build
-#here some picture display this webapp
+* firstly, use 'npm i' install some package dependy project
+* secondly, use a command 'npm run mock' start server
+* thirdly, use a command 'npm start' start build
+# here some picture display this webapp
 
 
